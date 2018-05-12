@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32716'
     url: http://www.gutenberg.org/2009/agents/32716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27484#Journal-of-a-Visit-to-Constantinople-and-Some-of-the-Greek-Islands-in-the-Spring-and-Summer-o_
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
